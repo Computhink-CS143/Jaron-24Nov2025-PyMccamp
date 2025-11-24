@@ -69,7 +69,7 @@ addition(54,13)
 
 
 print("Hey")
-print("Bye")
+print("This is really simple but important")
 print("This is really simple but important")
 print("Python reads from the top to the bottom")
 
