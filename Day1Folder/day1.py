@@ -102,7 +102,7 @@ print(name)
 
 title = "Emperor"
 name = "Jaron"
-command = "eat cake"
+command = ""
 
 # Example Output: Emperor Johnson commands his peasants to eat cake!
 
