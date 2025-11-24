@@ -103,7 +103,7 @@ print(name)
 title = "Emperor"
 name = "Jaron"
 command = "eat cake"
-print(title+name+"forces the prisoners")
+print(title+name+"forces the prisoners to"+command)
 
 # Example Output: Emperor Johnson commands his peasants to eat cake!
 
