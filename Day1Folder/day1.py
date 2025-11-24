@@ -82,8 +82,8 @@ print("Bye")
 # An example is given below
 
 # Write codes here
-name = "hello"
-print(greet)
+name = "Jaron"
+print(name)
 
 ##############################################################################
 # Exercise 3:
