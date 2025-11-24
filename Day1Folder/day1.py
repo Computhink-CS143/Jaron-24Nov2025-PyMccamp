@@ -82,7 +82,7 @@ print("Bye")
 # An example is given below
 
 # Write codes here
-greet = "hello"
+name = "hello"
 print(greet)
 
 ##############################################################################
