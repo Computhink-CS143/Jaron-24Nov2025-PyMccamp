@@ -71,7 +71,7 @@ addition(54,13)
 print("Hey")
 print("This is really simple but important")
 print("Python reads from the top to the bottom")
-print("")
+print("Bye")
 
 ##############################################################################
 # Exercise 2:
