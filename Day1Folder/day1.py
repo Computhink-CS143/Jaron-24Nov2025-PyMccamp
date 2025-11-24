@@ -114,8 +114,8 @@ print(title+name+"forces the prisoners to"+command)
 
 # an example of hello is given below
 
-def hello():
-  print("Hello, how are you")
+def Goodbye():
+  print("")
   print("My name is Sam")
 
 hello()
