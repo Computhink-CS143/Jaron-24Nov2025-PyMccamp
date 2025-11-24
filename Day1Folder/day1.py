@@ -116,7 +116,7 @@ print(title+name+"forces the prisoners to"+command)
 
 def Goodbye():
   print("Goodbye!")
-  print("My name is Sam")
+  print("See you next time!")
 
 hello()
 
