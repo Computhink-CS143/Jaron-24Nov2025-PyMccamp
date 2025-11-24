@@ -62,11 +62,11 @@ addition(54,13)
 
 # Rearrange the lines of code below such that the output of the program is:
 
-Hey
+#Hey
 #This is really simple but important
 #Python reads from the top to the bottom
-Bye
-
+#Bye
+def
 print("Hey")
 print("Bye")
 print("This is really simple but important")
