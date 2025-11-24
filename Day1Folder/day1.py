@@ -100,7 +100,7 @@ print(name)
 # Do not add any additional lines to this program
 # The output of this program should be something like "Greetings Sir Ian" or "Greetings Queen Elsa"
 
-title = "Emperor"
+title = "Emperor "
 name = "Jaron"
 command = "eat cake"
 print(title+name+"forces the prisoners to"+command)
