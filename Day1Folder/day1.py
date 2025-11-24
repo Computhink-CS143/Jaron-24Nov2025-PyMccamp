@@ -118,7 +118,7 @@ def Goodbye():
   print("Goodbye!")
   print("See you next time!")
 
-hello()
+Goodbye()
 
 ##############################################################################
 # Exercise 5:
